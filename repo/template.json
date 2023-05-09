@@ -1,0 +1,24 @@
+{
+  "RT":"",
+  "RA":"",
+  "RI":"",
+  "SPGs":[
+    {
+      "name":"Test SPG",
+      "version":"1",
+      "icon":"Placeholder",
+      "down":"Example",
+      "category":"Example",
+      "links":[
+        {
+          "lable":"Twitter",
+          "url":"Twitter.com/Insertname"
+        },
+        {
+          "lable":"GitHub",
+          "url":"GitHub.com/InsertName"
+        }
+      ]
+    }
+  ]
+}
